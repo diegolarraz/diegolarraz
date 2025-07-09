@@ -59,6 +59,7 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 ### 📫 Let's Connect
 
 **Email:** diegolarraz1@gmail.com
+</br>
 [**LinkedIn**](https://linkedin.com/in/diego-larraz-22138a175)
 
 ---
