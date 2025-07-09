@@ -67,7 +67,7 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 
 *"Building apps, one component at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=diegolarraz&color=blueviolet&style=flat-square)
 
 </div>
 
