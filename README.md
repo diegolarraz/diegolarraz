@@ -8,8 +8,8 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 
 ### 🛠️ Tech Stack
 
-**Languages:** TypeScript • JavaScript • Ruby • Python  
-**Frontend:** React • Next.js
+**Languages:** TypeScript • JavaScript • SwiftUI • Ruby • Python  
+**Frontend:** React • Next.js • iOS • React Native  
 **Backend:** Node.js • APIs • Ruby  
 **Tools:** Docker • Git  
 **Currently Learning:** Kubernetes • Frontend Performance Optimization  
