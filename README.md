@@ -37,6 +37,12 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 - **Smooth animations** and modern design
 - Currently optimizing SEO performance
 
+### 🥇 [Algolia AI Showcase](https://demo-team-hackathon-demo.netlify.app/)
+*Winner of the Algolia AI Hackaton*
+- Mentioned in the [Algolia Code Exchange]((https://www.algolia.com/fr/developers/code-exchange/demo-of-algolia-widgets-and-ai-features)
+- Showcases a modern and AI powered search experience
+- Built for Devs with Algolia Reveal
+
 ---
 
 ### 🎯 Currently Exploring
