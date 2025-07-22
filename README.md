@@ -1,6 +1,6 @@
 # Hi there, I'm Diego Larraz 👋
 
-## 🚀 Frontend Specialist & Fullstack Engineer
+## 🚀 Fullstack Engineer
 
 Currently building amazing web experiences at **Pennylane** 🇫🇷
 
