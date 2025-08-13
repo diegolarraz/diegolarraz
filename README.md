@@ -58,7 +58,7 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 - 🧗 **Climbing** mountains and indoor walls
 - 🏌️ **Golfing** on weekends
 - 🏝️ **Beach walks** and nature exploration
-- 🐱 Hanging out with my cat **Manolo**
+- 🐱 Hanging out with my cats **Manolo** and **Pip**
 
 ---
 
