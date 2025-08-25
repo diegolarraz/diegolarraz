@@ -2,7 +2,7 @@
 
 ## 🚀 Fullstack Engineer
 
-Currently building amazing web experiences at **Pennylane** 🇫🇷
+Currently building great user experiences at **Pennylane** 🇫🇷
 
 ---
 
@@ -12,7 +12,6 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 **Frontend:** React • Next.js • iOS • React Native  
 **Backend:** Node.js • APIs • Ruby  
 **Tools:** Docker • Git  
-**Currently Learning:** Kubernetes • Frontend Performance Optimization  
 
 ---
 
@@ -21,7 +20,6 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 - 🌐 Build **web applications** and **mobile apps** that users love
 - ⚡ Optimize **frontend performance** for better user experiences  
 - 🔧 Develop robust **APIs** and backend systems
-- 🎨 Create pixel-perfect, responsive interfaces
 
 ---
 
@@ -45,36 +43,7 @@ Currently building amazing web experiences at **Pennylane** 🇫🇷
 
 ---
 
-### 🎯 Currently Exploring
-
-- **Kubernetes** for container orchestration
-- **Frontend Performance** deep dives
-- Modern web optimization techniques
-
----
-
-### 🏔️ When I'm Not Coding
-
-- 🧗 **Climbing** mountains and indoor walls
-- 🏌️ **Golfing** on weekends
-- 🏝️ **Beach walks** and nature exploration
-- 🐱 Hanging out with my cats **Manolo** and **Pip**
-
----
-
 ### 📫 Let's Connect
-
-**Email:** diegolarraz1@gmail.com
-</br>
 [**LinkedIn**](https://linkedin.com/in/diego-larraz-22138a175)
 
----
-
-<div align="center">
-
-*"Building apps, one component at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=diegolarraz&color=blueviolet&style=flat-square)
-
-</div>
 
