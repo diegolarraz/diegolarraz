@@ -10,7 +10,7 @@ Currently building great user experiences at **Pennylane** 🇫🇷
 
 **Languages:** TypeScript • JavaScript • SwiftUI • Ruby • Python  
 **Frontend:** React • Next.js • iOS • React Native  
-**Backend:** Node.js • APIs • Ruby  
+**Backend:** Node.js • Ruby  
 **Tools:** Docker • Git  
 
 ---
