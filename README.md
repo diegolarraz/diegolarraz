@@ -1,4 +1,4 @@
-# Hi there, I'm Diego Larraz 👋
+# Hi there, I'm Diego 👋
 
 ## 🚀 Fullstack Engineer
 
@@ -8,10 +8,8 @@ Currently building great user experiences at **Pennylane** 🇫🇷
 
 ### 🛠️ Tech Stack
 
-**Languages:** TypeScript • JavaScript • SwiftUI • Ruby • Python  
-**Frontend:** React • Next.js • iOS • React Native  
-**Backend:** Node.js • Ruby  
-**Tools:** Docker • Git  
+**Frontend:** React • Next.js • SwiftUI • React Native  
+**Backend:** Node.js • Ruby • Python
 
 ---
 
@@ -29,6 +27,7 @@ Currently building great user experiences at **Pennylane** 🇫🇷
 *High-traffic website with thousands of daily visitors*
 - **SEO optimized** for maximum visibility
 - Built for scale and performance
+- Merch store
 
 #### 🥚 [Broken Eggs](https://brokeneggs.co.uk/)
 *Creative web experience with stunning animations*
@@ -39,7 +38,6 @@ Currently building great user experiences at **Pennylane** 🇫🇷
 *Winner of the Algolia AI Hackaton*
 - Mentioned in the [Algolia Code Exchange](https://www.algolia.com/fr/developers/code-exchange/demo-of-algolia-widgets-and-ai-features)
 - Showcases a modern and AI powered search experience
-- Built for Devs with Algolia Reveal
 
 ---
 
